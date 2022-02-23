@@ -12,12 +12,12 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
 
 ## External lib
 
-[redux](https://redux.js.org/) 
+[redux](https://redux.js.org/) <br />
 [react-redux](https://react-redux.js.org/)
 
 ## Hooks
 
-useSelector -from react-redux
+useSelector -from react-redux <br />
 useDispatch -from react-redux
 
 ## Function 
