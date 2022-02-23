@@ -18,6 +18,9 @@ Data is stored in Google Firebase [Realtime Database](https://console.firebase.g
 redux
 react-redux
 
+## Hooks
+useSelector -from react-reducer
+
 
 ## App Snapsorts
 ![All Meetups Page](https://github.com/vishal002/meetup-app/blob/master/src/img/demo_all_meetups_page.jpg?raw=true)
