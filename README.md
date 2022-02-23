@@ -15,8 +15,8 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
 Data is stored in Google Firebase [Realtime Database](https://console.firebase.google.com/project/react-meetup-app-b7e5c/database/react-meetup-app-b7e5c-default-rtdb/data).
 
 ## External lib
-redux
-react-redux
+[redux](https://redux.js.org/) 
+[react-redux](https://react-redux.js.org/)
 
 ## Hooks
 useSelector -from react-redux
@@ -25,8 +25,6 @@ useDispatch -from react-redux
 ## Function 
 connect (higher order function) - from react-redux
 
-
 ## App Snapsorts
-![All Meetups Page](https://github.com/vishal002/meetup-app/blob/master/src/img/demo_all_meetups_page.jpg?raw=true)
-![Add New Meetups Page](https://github.com/vishal002/meetup-app/blob/master/src/img/demo_add_new_meetups_page.jpg?raw=true)
-![My Favorites Page](https://github.com/vishal002/meetup-app/blob/master/src/img/demo_my_favorites_page.jpg?raw=true)
+![Home Page](https://github.com/vishal002/redux-counter-app/blob/master/src/img/home.jpg?raw=true)
+![Core Concept](https://github.com/vishal002/redux-counter-app/blob/master/src/img/core-concept.jpeg?raw=true)
