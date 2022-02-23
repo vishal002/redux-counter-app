@@ -19,8 +19,11 @@ redux
 react-redux
 
 ## Hooks
-useSelector -from react-reducer
-useDispatch -from react-reducer
+useSelector -from react-redux
+useDispatch -from react-redux
+
+## Function 
+connect (higher order function) - from react-redux
 
 
 ## App Snapsorts
