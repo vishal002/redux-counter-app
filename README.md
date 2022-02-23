@@ -20,6 +20,7 @@ react-redux
 
 ## Hooks
 useSelector -from react-reducer
+useDispatch -from react-reducer
 
 
 ## App Snapsorts
