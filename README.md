@@ -13,7 +13,8 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
 ## External lib
 
 [redux](https://redux.js.org/) <br />
-[react-redux](https://react-redux.js.org/)
+[react-redux](https://react-redux.js.org/) <br/>
+[redux-toolkit](https://redux-toolkit.js.org/)
 
 ## Hooks
 
@@ -27,7 +28,12 @@ connect (higher order function) - from react-redux
 ## App Snapsorts
 
 Home Page
-![Home Page](https://github.com/vishal002/redux-counter-app/blob/master/img/home.jpg?raw=true) <br/>
-<br/>
-Core Concept <br/>
+![Home Page](https://github.com/vishal002/redux-counter-app/blob/master/img/home.jpg?raw=true) 
+<br/><br/>
+
+Core Concept
 ![Core Concept](https://github.com/vishal002/redux-counter-app/blob/master/img/core-concept.jpeg?raw=true)
+
+## useful links
+
+[Reference vs Primitive Values](https://academind.com/tutorials/reference-vs-primitive-values) <br />
