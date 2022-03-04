@@ -28,6 +28,8 @@ connect (higher order function) - from react-redux
 ## App Snapsorts
 
 Home Page
+![login Page](https://github.com/vishal002/redux-counter-app/blob/master/img/login.jpg?raw=true) 
+![profile Page](https://github.com/vishal002/redux-counter-app/blob/master/img/profile.jpg?raw=true) 
 ![Home Page](https://github.com/vishal002/redux-counter-app/blob/master/img/home.jpg?raw=true) 
 <br/><br/>
 
